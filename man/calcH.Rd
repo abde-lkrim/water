@@ -10,7 +10,7 @@ calcH(anchors, method = "mean", Ts, Z.om, WeatherStation, ETp.coef = 1.05,
 }
 \arguments{
 \item{anchors}{anchors points. Can be the result from calcAnchors() or
-a spatialPointDataframe o Dataframe with X, Y, and type. type should be 
+a spatialPointDataframe or Dataframe with X, Y, and type. type should be 
 "cold" or "hot"}
 
 \item{method}{Method when using more than 1 pair of anchor pixels. 
