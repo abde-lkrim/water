@@ -14,7 +14,7 @@ METRIC.EB(image.DN, image.SR, WeatherStation, MTL, sat = "auto", thermalband,
 \arguments{
 \item{image.DN}{raw imagen in digital counts to evaluate}
 
-\item{image.SR}{L8 ONLY. Surface reflectance imagen. water package does not 
+\item{image.SR}{L8 ONLY. Surface reflectance images. water package does not 
 include a model to calculate surface reflectance for Landsat 8 images. Landsat 8 users 
 should download precalculated surface reflectances from espa website 
 (espa.cr.usgs.gov).}
